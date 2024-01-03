@@ -2,12 +2,12 @@
 node_modules/
 
 # Next.js
-/.next/
-/out/
+.next/
+out/
 
 # Compiled output
-/dist/
-/.build/
+dist/
+.build/
 
 # Logs
 logs
@@ -36,13 +36,13 @@ Thumbs.db
 ehthumbs.db
 
 # Next.js Image optimization
-/_next/image/
+_next/image/
 
 # Jest
-/coverage/
+coverage/
 
 # Test environment
-/__tests__/
+__tests__/
 
 # Custom
 # Add any other files or directories you want to ignore here
